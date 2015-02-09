@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evil_Controllers", "Evil_Controllers\Evil_Controllers.csproj", "{005B49A8-682C-4324-A626-5405C6246D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evil_Operator", "..\Evil_Operator\Evil_Operator\Evil_Operator.csproj", "{E24A7122-8564-444F-82D8-CBF7311CE6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005B49A8-682C-4324-A626-5405C6246D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005B49A8-682C-4324-A626-5405C6246D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005B49A8-682C-4324-A626-5405C6246D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005B49A8-682C-4324-A626-5405C6246D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24A7122-8564-444F-82D8-CBF7311CE6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24A7122-8564-444F-82D8-CBF7311CE6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24A7122-8564-444F-82D8-CBF7311CE6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24A7122-8564-444F-82D8-CBF7311CE6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
